@@ -1,0 +1,12 @@
+eclipse.preferences.version=1
+encoding//src/main/java=UTF-8
+encoding//src/main/java/org/opendaylight/controller/web/QosWeb.java=UTF-8
+encoding//src/main/java/org/opendaylight/controller/web/QosWeb_qos.java=UTF-8
+encoding//src/main/java/org/opendaylight/controller/web/QosWeb_route.java=UTF-8
+encoding//src/main/java/org/opendaylight/controller/web/QosWeb_sys.java=UTF-8
+encoding//src/main/resources=UTF-8
+encoding//src/main/resources/WEB-INF/jsp/qos_staticroute_config.jsp=UTF-8
+encoding//src/main/resources/WEB-INF/jsp/qos_staticroute_manage.jsp=UTF-8
+encoding//src/main/resources/WEB-INF/jsp/qoshost_statistics.jsp=UTF-8
+encoding//src/main/resources/WEB-INF/jsp/qoslog.jsp=UTF-8
+encoding//src/main/resources/WEB-INF/jsp/qosswitch_statistics.jsp=UTF-8
